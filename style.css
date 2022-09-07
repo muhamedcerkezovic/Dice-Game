@@ -1,0 +1,19 @@
+body{
+    background-color: #411530;
+    color:#F5C7A9;
+    text-align: center;
+    font-family: "Montserrat";
+}
+.row{
+    margin-top: 100px;
+}
+h1{
+    margin:50px;
+    font-size: 3.5rem;
+}
+h2{
+    margin-bottom: 45px;
+}
+.btn{
+    margin-top: 50px;
+}
